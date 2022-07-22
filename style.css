@@ -4,7 +4,7 @@
     padding: 0px;
     margin: 0px;
 }
-
+/* Home Banner Section Start */
 .home-container{
     width: 1321px;
     height: 646px;
@@ -15,14 +15,11 @@
     display:flex;
     justify-content: center;
     align-items: center;
-    
 }
 .home{
     color: white;
     width: 40%;
-    padding-left: 20px;
-    
-    
+    padding-left: 20px; 
 }
 .home-image{
     width: 618px;  
@@ -50,6 +47,11 @@ div img{
     color:  #FFFFFF;
     border-radius: 10px;
 }
+.menu-section{
+    display: flex;
+    margin-bottom: 20px;
+    
+}
 .nav{
     margin-top: 50px;
     margin-left: 291px;
@@ -62,7 +64,6 @@ div img{
     border-radius: 5px;
     
 }
-
 .anchor-1{
     text-decoration: none;
     background-color: white;
@@ -93,11 +94,7 @@ div img{
     text-align: center;
     border-radius: 10px;
 }
-.menu-section{
-    display: flex;
-    margin-bottom: 20px;
-    
-}
+/* Blog Content Style */
 .blog{ 
     width: 1212px;
     margin-top: 50px;
@@ -126,7 +123,7 @@ div img{
     color: gray;
 }
 
-/* upcoming match */
+/* upcoming match page style */
 .matches{
     width: 1212px;
     margin-top: 50px;
@@ -164,8 +161,6 @@ h3,h6{
     justify-content: center;
     padding: 20px 0;
     margin-top: 50px;
-    
-    
 }
 footer{
     text-align: center;

@@ -108,7 +108,6 @@ div img{
 }
 .blog-content{
     margin-bottom: 15px;
-    margin-right: 5px;
     margin-left: 10px;
     width: 312px;
     height: 362px;
@@ -131,7 +130,7 @@ div img{
 .matches{
     width: 1212px;
     margin-top: 50px;
-    margin-right: 291px;
+    margin-right: 251px;
     margin-left: 20px;
     padding: 40px 20px;
     display: grid;
@@ -158,6 +157,7 @@ h3,h6{
     text-align: center;
 }
 
+/* Footer Content */
 .footer-text{
     color: white;
     display: flex;
